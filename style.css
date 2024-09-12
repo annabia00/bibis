@@ -1,15 +1,20 @@
 body{
     background-color: plum;
+    text-align: center;
+    margin: 0px;
 }
 
-p{
-    color: blueviolet;
+header{
+    border-bottom: solid 2px rgb(rgb(255, 0, 179));
+    padding: 30px;
+    font-size: 30px;
+    text-decoration: none;
+
 }
 
-.amor {
-    font-style: italic;
-}
 
 .doritos {
     width: 25%;
+    font-style: italic;
+    color: hotpink;
 }
